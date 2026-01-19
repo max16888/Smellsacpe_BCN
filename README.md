@@ -4,7 +4,8 @@ This repository contains the interactive map and analysis code for the paper:
 **"Mapping and assessing the smellscape potential of urban forests through the scented tree distribution and accessibility in Barcelona"**
 
 ## 🗺️ Interactive Map
-Explore the map here: [https://yourusername.github.io/Smellsacpe_BCN/](https://yourusername.github.io/Smellsacpe_BCN/)
+Explore the map here:[https://max16888.github.io/Smellsacpe_BCN/](https://max16888.github.io/Smellsacpe_BCN/)
+
 
 ### Map Features:
 - Heatmap visualization of scented tree density
