@@ -5,7 +5,7 @@ This repository contains the interactive map and analysis code for the paper:
 
 ## 🗺️ Interactive Map
 Explore the map here:[https://max16888.github.io/Smellsacpe_BCN/](https://max16888.github.io/Smellsacpe_BCN/)
-https://max16888.github.io/Smellsacpe_BCN/barcelona_final_elegant.html
+https://max16888.github.io/Smellsacpe_BCN/barcelona_final_elegant_copy.html
 
 
 ### Map Features:
